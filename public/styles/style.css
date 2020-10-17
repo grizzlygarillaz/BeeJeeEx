@@ -1,0 +1,9 @@
+#task-state>p
+{
+    margin: 0;
+}
+
+.nav-item>a
+{
+    cursor: pointer;
+}
